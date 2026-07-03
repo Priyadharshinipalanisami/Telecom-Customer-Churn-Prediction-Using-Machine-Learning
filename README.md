@@ -54,8 +54,9 @@ customer-churn-prediction/
 ├── images/
 │   ├── dataset.png
 │   ├── heatmap.png
-│   ├── confusion_matrix.png
-│   └── accuracy.png
+│   ├── BoxPlot.png
+│   └── Model accuracy.png
+    |__ Feature importance.png
 ```
 
 ---
